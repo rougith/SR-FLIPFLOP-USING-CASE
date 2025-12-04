@@ -57,10 +57,12 @@ endmodule
 */
 
 **RTL LOGIC FOR FLIPFLOPS**
-![Uploading Screenshot 2025-12-04 223209.png…]()
+<img width="1547" height="659" alt="Screenshot 2025-12-04 223209" src="https://github.com/user-attachments/assets/605de1db-f8d3-43ac-adb7-9575f5db4689" />
+
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
-![Uploading wf.png…]()
+<img width="1920" height="1080" alt="wf" src="https://github.com/user-attachments/assets/8555e3bc-be53-4efa-a5d9-de5493b418b4" />
+
 
 **RESULTS**
 Thus the SR flipflop is verified by RTL and timing diagram.
